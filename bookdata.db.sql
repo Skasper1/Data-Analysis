@@ -17,5 +17,6 @@ SELECT category, COUNT(category) as Num_of_Products FROM bookdata_table_copy GRO
 
 
 
-
+--Link to Power BI Dashboard--
+--https://app.powerbi.com/links/l1Rup9ncme?ctid=5cdc5b43-d7be-4caa-8173-729e3b0a62d9&pbi_source=linkShare ---
 
